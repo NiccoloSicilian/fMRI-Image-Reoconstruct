@@ -1,4 +1,4 @@
-# Brain-to-Vision Reconstruction: RelaxedAsCoal 🧠 ➡️ 🖼️
+# Brain-to-Vision Reconstruction: RelaxedAsCoal 
 
 **Advanced Machine Learning Project (2025/26)** *Reconstructing visual stimuli from fMRI activity using Semantic Alignment and Diffusion Models.*
 
@@ -12,7 +12,7 @@ This project replicates and simplifies the **MindEye** architecture to reconstru
 
 Unlike standard regression, we utilize a **Metric Learning approach** (Contrastive + Triplet + Cosine Loss) to learn the true semantic geometry of the latent space. The predicted embeddings are then decoded into images using the pre-trained **Kandinsky 2.1** diffusion model.
 
-## 👥 Authors
+##  Authors
 * **Niccolò Siciliano** (1958541)
 * **Luiz Eduardo Leite Filho** (2219191)
 * **Gabriele Gimelli** (1950107)
@@ -20,7 +20,7 @@ Unlike standard regression, we utilize a **Metric Learning approach** (Contrasti
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 Our pipeline consists of three main stages:
 
